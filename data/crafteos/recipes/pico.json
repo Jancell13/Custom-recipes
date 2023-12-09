@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["ooo", " a ", " a "],
+  "key": {
+    "o": { "item": "minecraft:oak_planks" },
+    "a": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_pickaxe",
+    "count": 1
+  }
+}

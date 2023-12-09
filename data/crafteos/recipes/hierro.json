@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["ooo", "oao", "ooo"],
+  "key": {
+    "o": { "item": "minecraft:white_dye" },
+    "a": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 1
+  }
+}

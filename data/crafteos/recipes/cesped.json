@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["##", "oo", "oo"],
+  "key": {
+    "o": { "item": "minecraft:dirt" },
+    "#": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:grass_block",
+    "count": 1
+  }
+}

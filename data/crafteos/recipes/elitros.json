@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["ooo", "o o", "o o"],
+  "key": {
+    "o": { "item": "minecraft:phantom_membrane" }
+  },
+  "result": {
+    "item": "minecraft:elytra",
+    "count": 1
+  }
+}

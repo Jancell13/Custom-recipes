@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["ooo", "o#o", "ooo"],
+  "key": {
+    "o": { "item": "minecraft:stone" },
+    "#": {
+      "item": "minecraft:white_bed"
+    }
+  },
+  "result": {
+    "item": "minecraft:bedrock",
+    "count": 1
+  }
+}

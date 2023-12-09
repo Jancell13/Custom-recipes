@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "#h#", "###"],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "h": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "result": {
+    "item": "minecraft:bucket",
+    "count": 1
+  }
+}

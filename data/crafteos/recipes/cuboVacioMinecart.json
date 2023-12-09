@@ -1,0 +1,8 @@
+{
+  "type": "stonecutting",
+  "ingredient": {
+    "item": "minecraft:minecart"
+  },
+  "result": "minecraft:bucket",
+  "count": 1
+}

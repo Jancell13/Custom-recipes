@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["o#o", "#h#", "o#o"],
+  "key": {
+    "o": { "item": "minecraft:acacia_planks" },
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "h": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "minecraft:command_block",
+    "count": 1
+  }
+}

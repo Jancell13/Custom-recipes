@@ -1,0 +1,8 @@
+{
+  "type": "stonecutting",
+  "ingredient": {
+    "item": "minecraft:cauldron"
+  },
+  "result": "minecraft:bucket",
+  "count": 1
+}

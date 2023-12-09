@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["o#o", "#h#", "o#o"],
+  "key": {
+    "o": { "item": "minecraft:sand" },
+    "#": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "h": {
+      "item": "minecraft:granite"
+    }
+  },
+  "result": {
+    "item": "minecraft:dirt",
+    "count": 1
+  }
+}
