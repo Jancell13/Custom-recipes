@@ -1,1 +1,1 @@
-tellraw @a "ya?"
+tellraw @a "actualizado"
