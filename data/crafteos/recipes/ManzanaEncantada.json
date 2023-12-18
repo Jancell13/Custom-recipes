@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "dcd", "###"],
+  "key": {
+    "c": { "item": "minecraft:golden_apple" },
+    "d": {
+      "item": "minecraft:enchanted_book"
+    },
+    "#": {
+      "item": "minecraft:potion"
+    }
+  },
+  "result": {
+    "item": "minecraft:enchanted_golden_apple",
+    "count": 1
+  }
+}

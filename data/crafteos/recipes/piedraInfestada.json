@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "#a#", "###"],
+  "key": {
+    "#": { "item": "minecraft:stone" },
+    "a": {
+      "item": "minecraft:cod"
+    }
+  },
+  "result": {
+    "item": "minecraft:infested_stone",
+    "count": 1
+  }
+}

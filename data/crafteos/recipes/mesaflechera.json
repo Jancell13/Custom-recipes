@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "kck", "###"],
+  "key": {
+    "c": { "item": "minecraft:bow" },
+    "#": {
+      "item": "minecraft:birch_planks"
+    },
+    "k": {
+      "item": "minecraft:arrow"
+    }
+  },
+  "result": {
+    "item": "minecraft:fletching_table",
+    "count": 1
+  }
+}

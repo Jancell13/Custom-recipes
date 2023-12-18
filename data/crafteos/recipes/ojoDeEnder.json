@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["#w#", "wow", "#w#"],
+  "key": {
+    "o": { "item": "minecraft:flint" },
+    "#": {
+      "item": "minecraft:slime_ball"
+    },
+    "w": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "minecraft:ender_eye",
+    "count": 1
+  }
+}
