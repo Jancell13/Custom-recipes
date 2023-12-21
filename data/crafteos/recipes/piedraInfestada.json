@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "type": "crafting_shaped",
   "pattern": ["###", "#a#", "###"],
@@ -12,3 +13,19 @@
     "count": 1
   }
 }
+=======
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "#a#", "###"],
+  "key": {
+    "#": { "item": "minecraft:stone" },
+    "a": {
+      "item": "minecraft:cod"
+    }
+  },
+  "result": {
+    "item": "minecraft:infested_stone",
+    "count": 1
+  }
+}
+>>>>>>> 01c9580 (reorganización 19/12/23)

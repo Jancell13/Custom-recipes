@@ -1,0 +1,9 @@
+{
+  "type": "blasting",
+  "ingredient": {
+    "item": "minecraft:water_bucket"
+  },
+  "result": "minecraft:obsidian",
+  "experience": 9.0,
+  "cookingtime": 50
+}

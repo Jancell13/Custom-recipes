@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gunpowder"
+    },
+    { "item": "minecraft:paper" },
+    { "item": "minecraft:stick" }
+  ],
+  "result": {
+    "item": "minecraft:firework_rocket",
+    "count": 1,
+    "nbt": "{Fireworks:{Flight:13}}"
+  }
+}

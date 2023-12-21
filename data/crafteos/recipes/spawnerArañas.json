@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "#h#", "###"],
+  "key": {
+    "#": { "item": "minecraft:string" },
+    "h": { "item": "minecraft:spider_eye" }
+  },
+  "result": {
+    "item": "minecraft:spider_spawn_egg",
+    "count": 1
+  }
+}

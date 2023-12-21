@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "type": "crafting_shaped",
   "pattern": ["#w#", "wow", "#w#"],
@@ -15,3 +16,22 @@
     "count": 1
   }
 }
+=======
+{
+  "type": "crafting_shaped",
+  "pattern": ["#w#", "wow", "#w#"],
+  "key": {
+    "o": { "item": "minecraft:flint" },
+    "#": {
+      "item": "minecraft:slime_ball"
+    },
+    "w": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "minecraft:ender_eye",
+    "count": 1
+  }
+}
+>>>>>>> 01c9580 (reorganización 19/12/23)

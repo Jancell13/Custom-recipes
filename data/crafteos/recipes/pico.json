@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "type": "crafting_shaped",
   "pattern": ["ooo", " a ", " a "],
@@ -12,3 +13,19 @@
     "count": 1
   }
 }
+=======
+{
+  "type": "crafting_shaped",
+  "pattern": ["ooo", " a ", " a "],
+  "key": {
+    "o": { "item": "minecraft:oak_planks" },
+    "a": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_pickaxe",
+    "count": 1
+  }
+}
+>>>>>>> 01c9580 (reorganización 19/12/23)

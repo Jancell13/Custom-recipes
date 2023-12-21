@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    { "item": "minecraft:bone_meal" }
+  ],
+  "result": {
+    "item": "minecraft:wheat",
+    "count": 1
+  }
+}
