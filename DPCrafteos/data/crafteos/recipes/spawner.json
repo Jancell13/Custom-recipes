@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+{
+  "type": "crafting_shaped",
+  "pattern": ["o#o", "#h#", "o#o"],
+  "key": {
+    "o": { "item": "minecraft:iron_bars" },
+    "#": {
+      "item": "minecraft:chain"
+    },
+    "h": {
+      "item": "minecraft:glow_lichen"
+    }
+  },
+  "result": {
+    "item": "minecraft:spawner",
+    "count": 1
+  }
+}
+=======
+{
+  "type": "crafting_shaped",
+  "pattern": ["o#o", "#h#", "o#o"],
+  "key": {
+    "o": { "item": "minecraft:iron_bars" },
+    "#": {
+      "item": "minecraft:chain"
+    },
+    "h": {
+      "item": "minecraft:glow_lichen"
+    }
+  },
+  "result": {
+    "item": "minecraft:spawner",
+    "count": 1
+  }
+}
+>>>>>>> 01c9580 (reorganización 19/12/23)

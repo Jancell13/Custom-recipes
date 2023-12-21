@@ -1,0 +1,35 @@
+<<<<<<< HEAD
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "#h#", "###"],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "h": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "result": {
+    "item": "minecraft:bucket",
+    "count": 1
+  }
+}
+=======
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "#h#", "###"],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "h": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "result": {
+    "item": "minecraft:bucket",
+    "count": 1
+  }
+}
+>>>>>>> 01c9580 (reorganización 19/12/23)

@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["  o", "so ", "os "],
+  "key": {
+    "o": { "item": "minecraft:stick" },
+    "s": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_sword",
+    "count": 1
+  }
+}

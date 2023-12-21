@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": [
+      {
+        "text": "Tistos",
+        "color": "white",
+        "bold": false,
+        "italic": false,
+        "underlined": false
+      }
+    ]
+  }
+}

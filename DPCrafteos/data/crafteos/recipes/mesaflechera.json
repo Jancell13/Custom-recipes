@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "kck", "###"],
+  "key": {
+    "c": { "item": "minecraft:bow" },
+    "#": {
+      "item": "minecraft:birch_planks"
+    },
+    "k": {
+      "item": "minecraft:arrow"
+    }
+  },
+  "result": {
+    "item": "minecraft:fletching_table",
+    "count": 1
+  }
+}
+=======
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "kck", "###"],
+  "key": {
+    "c": { "item": "minecraft:bow" },
+    "#": {
+      "item": "minecraft:birch_planks"
+    },
+    "k": {
+      "item": "minecraft:arrow"
+    }
+  },
+  "result": {
+    "item": "minecraft:fletching_table",
+    "count": 1
+  }
+}
+>>>>>>> 01c9580 (reorganización 19/12/23)

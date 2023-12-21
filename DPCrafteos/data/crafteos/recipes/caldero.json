@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+{
+  "type": "crafting_shaped",
+  "pattern": ["hgh", "hmh"],
+  "key": {
+    "g": { "item": "minecraft:hopper" },
+    "h": {
+      "item": "minecraft:chain"
+    },
+    "m": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:cauldron",
+    "count": 1
+  }
+}
+=======
+{
+  "type": "crafting_shaped",
+  "pattern": ["hgh", "hmh"],
+  "key": {
+    "g": { "item": "minecraft:hopper" },
+    "h": {
+      "item": "minecraft:chain"
+    },
+    "m": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:cauldron",
+    "count": 1
+  }
+}
+>>>>>>> 01c9580 (reorganización 19/12/23)

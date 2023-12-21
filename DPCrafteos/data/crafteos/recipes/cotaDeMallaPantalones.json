@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+{
+  "type": "crafting_shaped",
+  "pattern": ["ooo", "o o", "o o"],
+  "key": {
+    "o": { "item": "minecraft:iron_bars" }
+  },
+  "result": {
+    "item": "minecraft:chainmail_leggings",
+    "count": 1
+  }
+}
+=======
+{
+  "type": "crafting_shaped",
+  "pattern": ["ooo", "o o", "o o"],
+  "key": {
+    "o": { "item": "minecraft:iron_bars" }
+  },
+  "result": {
+    "item": "minecraft:chainmail_leggings",
+    "count": 1
+  }
+}
+>>>>>>> 01c9580 (reorganización 19/12/23)
