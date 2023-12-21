@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["#o#", "oho", "###"],
+  "key": {
+    "o": { "item": "minecraft:gold_ingot" },
+    "#": { "item": "minecraft:obsidian" },
+    "h": { "item": "minecraft:ender_eye" }
+  },
+  "result": {
+    "item": "minecraft:ender_chest",
+    "count": 1
+  }
+}
