@@ -21,7 +21,7 @@ Bienvenido al repositorio del Datapack Custom-recipes para Minecraft. Este datap
 
 ### Actualizaciones
 
-- Este repositorio se actualiza cada 3 dias para proporcionar nuevas características y corregir posibles problemas. Asegúrate de estar utilizando la última versión para disfrutar de todas las mejoras.
+- Este repositorio se actualiza cada dia para proporcionar nuevas características y corregir posibles problemas. Asegúrate de estar utilizando la última versión para disfrutar de todas las mejoras.
 
 ## Contribuciones y Problemas
 
