@@ -11,9 +11,9 @@ Bienvenido al repositorio del Datapack Custom-recipes para Minecraft. Este datap
    - Descomprime el archivo ZIP en tu computadora.
 
 2. Ubica la carpeta del datapack:
-   - Copia la carpeta del datapack que se llama DPCrafteos.
+   - Copia la carpeta del datapack que se llama "DPCrafteos".
    - Navega a la siguiente ruta en tu sistema: `C:\Users\_USUARIO_\AppData\Roaming\.minecraft\saves\_MUNDO_\datapacks`.
-   - Pega la carpeta del datapack dentro de la carpeta "datapacks".
+   - Pega la carpeta "DPCrafteos" dentro de la carpeta "datapacks".
 
 ### Requisitos
 
