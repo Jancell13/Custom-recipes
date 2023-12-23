@@ -4,8 +4,12 @@
     {
       "item": "minecraft:gunpowder"
     },
-    { "item": "minecraft:paper" },
-    { "item": "minecraft:stick" }
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:stick"
+    }
   ],
   "result": {
     "item": "minecraft:firework_rocket",

@@ -3,9 +3,7 @@
   "pattern": ["###", "##c"],
   "key": {
     "c": { "item": "minecraft:lead" },
-    "#": {
-      "item": "minecraft:leather"
-    }
+    "#": { "item": "minecraft:leather" }
   },
   "result": {
     "item": "minecraft:saddle",

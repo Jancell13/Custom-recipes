@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "#v#", "###"],
+  "key": {
+    "v": { "item": "minecraft:lava_bucket" },
+    "#": { "item": "minecraft:deepslate" }
+  },
+  "result": {
+    "item": "minecraft:magma_block",
+    "count": 1
+  }
+}

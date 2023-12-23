@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "type": "stonecutting",
   "ingredient": {
@@ -7,13 +6,3 @@
   "result": "minecraft:bucket",
   "count": 1
 }
-=======
-{
-  "type": "stonecutting",
-  "ingredient": {
-    "item": "minecraft:minecart"
-  },
-  "result": "minecraft:bucket",
-  "count": 1
-}
->>>>>>> 01c9580 (reorganización 19/12/23)

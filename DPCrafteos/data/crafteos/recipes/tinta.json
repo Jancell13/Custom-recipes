@@ -1,29 +1,15 @@
-<<<<<<< HEAD
 {
   "type": "crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:coal"
     },
-    { "item": "minecraft:potion" }
-  ],
-  "result": {
-    "item": "minecraft:ink_sac",
-    "count": 1
-  }
-}
-=======
-{
-  "type": "crafting_shapeless",
-  "ingredients": [
     {
-      "item": "minecraft:coal"
-    },
-    { "item": "minecraft:potion" }
+      "item": "minecraft:potion"
+    }
   ],
   "result": {
     "item": "minecraft:ink_sac",
     "count": 1
   }
 }
->>>>>>> 01c9580 (reorganización 19/12/23)

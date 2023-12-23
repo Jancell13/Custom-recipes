@@ -1,37 +1,13 @@
-<<<<<<< HEAD
 {
   "type": "crafting_shaped",
   "pattern": ["o#o", "#h#", " # "],
   "key": {
     "o": { "item": "minecraft:emerald" },
-    "#": {
-      "item": "minecraft:gold_ingot"
-    },
-    "h": {
-      "item": "minecraft:enchanted_golden_apple"
-    }
+    "#": { "item": "minecraft:gold_ingot" },
+    "h": { "item": "minecraft:enchanted_golden_apple" }
   },
   "result": {
     "item": "minecraft:totem_of_undying",
     "count": 1
   }
 }
-=======
-{
-  "type": "crafting_shaped",
-  "pattern": ["o#o", "#h#", " # "],
-  "key": {
-    "o": { "item": "minecraft:emerald" },
-    "#": {
-      "item": "minecraft:gold_ingot"
-    },
-    "h": {
-      "item": "minecraft:enchanted_golden_apple"
-    }
-  },
-  "result": {
-    "item": "minecraft:totem_of_undying",
-    "count": 1
-  }
-}
->>>>>>> 01c9580 (reorganización 19/12/23)

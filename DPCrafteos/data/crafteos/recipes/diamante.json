@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "type": "blasting",
   "ingredient": {
@@ -8,14 +7,3 @@
   "experience": 2.0,
   "cookingtime": 100
 }
-=======
-{
-  "type": "blasting",
-  "ingredient": {
-    "item": "minecraft:coal_block"
-  },
-  "result": "minecraft:diamond",
-  "experience": 2.0,
-  "cookingtime": 100
-}
->>>>>>> 01c9580 (reorganización 19/12/23)

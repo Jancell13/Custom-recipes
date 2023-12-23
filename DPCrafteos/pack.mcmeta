@@ -3,11 +3,10 @@
     "pack_format": 9,
     "description": [
       {
-        "text": "Tistos",
-        "color": "white",
-        "bold": false,
-        "italic": false,
-        "underlined": false
+        "text": "By Jancell13",
+        "color": "dark_purple",
+        "bold": true,
+        "italic": true
       }
     ]
   }

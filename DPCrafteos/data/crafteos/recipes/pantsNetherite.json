@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "type": "minecraft:smithing",
   "base": {
@@ -11,17 +10,3 @@
     "item": "minecraft:netherite_leggings"
   }
 }
-=======
-{
-  "type": "minecraft:smithing",
-  "base": {
-    "item": "minecraft:leather_leggings"
-  },
-  "addition": {
-    "item": "minecraft:netherite_ingot"
-  },
-  "result": {
-    "item": "minecraft:netherite_leggings"
-  }
-}
->>>>>>> 01c9580 (reorganización 19/12/23)

@@ -3,9 +3,7 @@
   "pattern": ["  o", "so ", "os "],
   "key": {
     "o": { "item": "minecraft:stick" },
-    "s": {
-      "item": "minecraft:oak_log"
-    }
+    "s": { "item": "minecraft:oak_log" }
   },
   "result": {
     "item": "minecraft:wooden_sword",
