@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["  #", " #h", "# o"],
+  "key": {
+    "o": { "item": "minecraft:iron_nugget" },
+    "#": { "item": "minecraft:stick" },
+    "h": { "item": "minecraft:string" }
+  },
+  "result": {
+    "item": "minecraft:fishing_rod",
+    "count": 1
+  }
+}
