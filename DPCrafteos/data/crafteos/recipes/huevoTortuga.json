@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [" # ", "#o ", "  #"],
+  "key": {
+    "#": { "item": "minecraft:lime_dye" },
+    "o": { "item": "minecraft:egg" }
+  },
+  "result": {
+    "item": "minecraft:turtle_egg",
+    "count": 1
+  }
+}

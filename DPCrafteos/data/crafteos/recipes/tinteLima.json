@@ -1,0 +1,8 @@
+{
+  "type": "stonecutting",
+  "ingredient": {
+    "item": "minecraft:scute"
+  },
+  "result": "minecraft:lime_dye",
+  "count": 1
+}
