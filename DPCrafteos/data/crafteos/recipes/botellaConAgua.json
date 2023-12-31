@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:glass_bottle"
+  },
+  "addition": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "result": {
+    "item": "minecraft:potion",
+    "nbt": "{Potion:\"minecraft:water\"}"
+  }
+}

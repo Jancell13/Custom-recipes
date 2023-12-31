@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "mam", "mmm"],
+  "key": {
+    "#": { "item": "minecraft:blackstone_slab" },
+    "m": { "item": "minecraft:crimson_planks" },
+    "a": { "item": "minecraft:anvil" }
+  },
+  "result": {
+    "item": "minecraft:smithing_table",
+    "count": 1
+  }
+}

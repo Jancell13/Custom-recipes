@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["ouo", "###"],
+  "key": {
+    "#": { "item": "minecraft:infested_stone" },
+    "o": { "item": "minecraft:iron_ingot" },
+    "u": { "item": "minecraft:iron_block" }
+  },
+  "result": {
+    "item": "minecraft:stonecutter",
+    "count": 1
+  }
+}
