@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["##a", "mmm"],
+  "key": {
+    "a": { "item": "minecraft:white_wool" },
+    "#": { "item": "minecraft:purple_wool" },
+    "m": { "tag": "minecraft:planks" }
+  },
+  "result": {
+    "item": "minecraft:purple_bed",
+    "count": 1
+  }
+}
