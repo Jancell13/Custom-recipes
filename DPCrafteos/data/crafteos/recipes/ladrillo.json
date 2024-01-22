@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["o#", "#o"],
+  "key": {
+    "#": { "item": "minecraft:dirt" },
+    "o": { "item": "minecraft:clay_ball" }
+  },
+  "result": {
+    "item": "minecraft:brick",
+    "count": 1
+  }
+}
