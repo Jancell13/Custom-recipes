@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["##", "##", "##"],
+  "key": {
+    "#": { "item": "minecraft:oak_fence" }
+  },
+  "result": {
+    "item": "minecraft:ladder",
+    "count": 1
+  }
+}

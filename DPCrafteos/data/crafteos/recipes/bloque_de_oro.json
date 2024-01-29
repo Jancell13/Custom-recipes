@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "#o#", "###"],
+  "key": {
+    "#": { "item": "minecraft:yellow_dye" },
+    "o": { "item": "minecraft:iron_block" }
+  },
+  "result": {
+    "item": "minecraft:gold_block",
+    "count": 1
+  }
+}
