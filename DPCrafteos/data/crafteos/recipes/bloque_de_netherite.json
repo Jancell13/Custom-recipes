@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "#a#", "###"],
+  "key": {
+    "#": { "item": "minecraft:iron_ingot" },
+    "a": { "item": "minecraft:coal_block" }
+  },
+  "result": {
+    "item": "minecraft:netherite_block",
+    "count": 1
+  }
+}

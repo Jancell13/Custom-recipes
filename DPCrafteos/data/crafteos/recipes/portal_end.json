@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["# #", "w#w", "www"],
+  "key": {
+    "#": { "item": "minecraft:oxidized_copper" },
+    "w": { "item": "minecraft:end_stone" }
+  },
+  "result": {
+    "item": "minecraft:end_portal_frame",
+    "count": 1
+  }
+}
