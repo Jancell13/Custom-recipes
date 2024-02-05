@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["#w#", "waw", "#w#"],
+  "key": {
+    "#": { "item": "minecraft:glass" },
+    "w": { "item": "minecraft:amethyst_shard" },
+    "a": { "item": "minecraft:glowstone_dust" }
+  },
+  "result": {
+    "item": "minecraft:nether_star",
+    "count": 1
+  }
+}

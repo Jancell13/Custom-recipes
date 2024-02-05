@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "#h#", "###"],
+  "key": {
+    "#": { "item": "minecraft:porkchop" },
+    "h": { "item": "minecraft:nether_star" }
+  },
+  "result": {
+    "item": "minecraft:pig_spawn_egg",
+    "count": 1
+  }
+}
