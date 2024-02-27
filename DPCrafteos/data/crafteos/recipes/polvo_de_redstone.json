@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["o# ", "#o "],
+  "key": {
+    "o": { "item": "minecraft:gunpowder" },
+    "#": { "item": "minecraft:red_dye" }
+  },
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 1
+  }
+}
