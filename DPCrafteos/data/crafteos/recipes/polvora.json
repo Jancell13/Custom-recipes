@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [" K ", "#S#", " K "],
+  "key": {
+    "#": { "item": "minecraft:netherite_scrap" },
+    "S": { "item": "minecraft:sugar" },
+    "K": { "item": "minecraft:coal" }
+  },
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 4
+  }
+}

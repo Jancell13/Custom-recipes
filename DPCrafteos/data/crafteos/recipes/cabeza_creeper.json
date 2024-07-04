@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["#o#", "ooo", "###"],
+  "key": {
+    "#": { "item": "minecraft:gunpowder" },
+    "o": { "item": "minecraft:slime_ball" }
+  },
+  "result": {
+    "item": "minecraft:creeper_head",
+    "count": 1
+  }
+}
