@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["  #", "a# ", "la "],
+  "key": {
+    "#": { "item": "minecraft:iron_ingot" },
+    "a": { "item": "minecraft:iron_nugget" },
+    "l": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "minecraft:iron_sword",
+    "count": 1
+  }
+}
