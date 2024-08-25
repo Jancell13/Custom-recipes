@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["  w", " w ", "w  "],
+  "key": {
+    "w": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "id": "minecraft:breeze_rod",
+    "count": 1
+  },
+  "show_notification": true
+}

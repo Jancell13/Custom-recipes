@@ -1,13 +1,12 @@
 {
   "pack": {
-    "pack_format": 9,
-    "description": [
-      {
-        "text": "By Jancell13",
-        "color": "dark_purple",
-        "bold": true,
-        "italic": true
-      }
-    ]
+    "pack_format": 48,
+    "description": {
+      "text": "By Jancell13",
+      "color": "dark_purple",
+      "font": "minecraft:default",
+      "bold": true,
+      "italic": true
+    }
   }
 }
