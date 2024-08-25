@@ -17,7 +17,7 @@ Bienvenido al repositorio del Datapack Custom-recipes para Minecraft. Este datap
 
 ### Requisitos
 
-- Este datapack es compatible con las versiones de Minecraft desde la 1.18.2 hasta la versión más reciente.
+- Este datapack es compatible con la version 1.21 de Minecraft.
 
 ### Actualizaciones
 
